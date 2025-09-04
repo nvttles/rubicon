@@ -4,6 +4,8 @@
 
 ---
 
+Please take notice, this is *STILL* in development.
+
 **Introduction** ---
 Welcome to Rubicon, a nonsense CLI tool made for Ruby, with Ruby. With this you can use a bunch of random commands such as fun commands all the way to complex math! This is not used for anything in particular, nor do I expect it to garner any attention. I just made this for fun! If I have used your package in this, please let me know if you are not comfortable with it! I will remove it and improvise if you wish me to do so.
 
