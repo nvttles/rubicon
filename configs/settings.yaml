@@ -1,1 +1,43 @@
-
+name: rubicon
+vers: 0.0.0
+cmds:
+  - vers
+  - get_time
+  - help
+  - greet
+  - add
+  - subtract
+  - multiply
+  - divide
+  - power
+  - sqrt
+  - factorial
+  - fibonacci
+  - prime
+  - is_prime
+  - list_primes
+  - gcd
+  - lcm
+  - convert_base
+  - binary_to_decimal
+  - decimal_to_binary
+  - hex_to_decimal
+  - decimal_to_hex
+  - hex_to_binary
+  - binary_to_hex
+forfun:
+  - prank
+  - random
+  - joke
+  - quote
+  - trivia
+  - riddle
+  - meme
+  - fortune
+  - roll_dice
+  - flip_coin
+  - magic_8_ball
+  - hangman
+  - word_scramble
+  - trivia_quiz
+  - truth_or_dare
