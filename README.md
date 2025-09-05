@@ -38,5 +38,9 @@ If *any* of these come out with an error, then you have **not** installed RubyGe
 ---
 ## Information
 
+**What is RubyGems?** RubyGems is a way to make tools the you can require from Ruby. Making it sort of an official 'package' for Ruby! This can be used fot many things, and has been used for many things with some having over 10,000 repos using them!
+
+**What is Ruby?** Ruby is a OS language, similar to Python and Julia. It was very popular back in 2018 and it is still very popular among some people today!
+
 ---
 ## Notes
