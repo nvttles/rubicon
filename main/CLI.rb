@@ -8,41 +8,40 @@ A further documentation is coming soon, but I mostly just wanted to test out usi
 
 name = "RUBICON"
 author = "nvttles"
-cmds = ["help", "greet", "add", "subtract", "divide" "multiply", "sqrt", "factorials"]
-version = 0.0.1
+cmds = ["help", "greet", "add", "subtract", "divide", "multiply", "sqrt", "factorials"]
+version = "0.0.1"
 
-module RUBICON
+module Rubicon
   def help()
-    # HELP FUNCTION
-    puts "Here are the commands for ${name} by ${author}"
+    puts "Here are the commands for #{name} by #{author}"
     puts cmds
   end
 
   def greet()
-    # GREET FUNCTION
     puts "Enter your name:"
     user = gets.chomp
-    puts "Hello, ${user}"
+    puts "Hello, #{user}"
   end
 
   def add()
-    # ADDITION FUNCTION
     puts "Enter your first number:"
-    num1 = gets.chomp
+    num1 = gets.chomp.to_i
     puts "Enter your second number:"
-    num2 = gets.chomp
+    num2 = gets.chomp.to_i
     puts "Calculating..."
     result = num1 + num2
-    puts "The answer is " + result
+    puts "The answer is #{result}"
   end
 
   def subtract()
-    # SUBTRACTION FUNCTION
     puts "Enter your first number:"
-    num1 = gets.chomp
+    num1 = gets.chomp.to_i
     puts "Enter your second number:"
-    num2 = gets.chomp
+    num2 = gets.chomp.to_i
     puts "Calculating..."
     result = num1 - num2
-    puts "The answer is " + result
+    puts "The answer is #{result}"
+  end
+
+  module_function :help, :greet, :add, :subtract
 end
