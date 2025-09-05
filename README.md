@@ -28,7 +28,6 @@ ruby -v
 To check if you have RubyGems installed, use:
 '''bash
 gem --version
-'''
 
 If *any* of these comes out with an error, then you have **not** installed RubyGems or Ruby the correct way.
 
