@@ -33,9 +33,10 @@ To check if you have RubyGems installed, use:
 gem --version
 ```
 
-If *any* of these comes out with an error, then you have **not** installed RubyGems or Ruby the correct way.
+If *any* of these come out with an error, then you have **not** installed RubyGems or Ruby the correct way.
 
 ---
 ## Information
+
 ---
 ## Notes
