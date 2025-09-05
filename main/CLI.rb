@@ -45,4 +45,3 @@ module Rubicon
 
   module_function :help, :greet, :add, :subtract
 end
-# Ate yas
