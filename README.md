@@ -1,5 +1,5 @@
 # RUBICON
-![Drone](https://img.shields.io/drone/build/nvttles/rubicon)
+![GitHub Repo stars](https://img.shields.io/github/stars/nvttles/rubicon)
 ![Static Badge](https://img.shields.io/badge/ruby-violet)
 
 ---
