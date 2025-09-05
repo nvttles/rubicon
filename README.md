@@ -23,9 +23,9 @@ This CLI tool is supposed to be installed via RubyGems! The official RubyGems we
 To run RubyGems I suggest downloading Ruby itself. Depending on your device it could be installed. However, if this is not thr case then download it via this link: https://ruby-lang.org
 To check if you have Ruby installed use:
 
-'''bash
+'bash
 ruby -v
-'''
+'
 
 To check if you have RubyGems installed, use:
 
